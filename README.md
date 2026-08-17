@@ -15,11 +15,8 @@ Python, PostGIS, Google Earth Engine, QGIS ; if it has a coordinate system, I've
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 </p>
 
-### Socials
+### Sometimes I also write :
 <p align="left">
-<a href="https://www.github.com/andyaketch" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</a>
 <a href="https://medium.com/@andyaketch" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
 </a>
