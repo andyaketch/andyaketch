@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 GIS and Remote Sensing Analyst
 ------------------------------
 I turn satellite imagery and messy spatial data into maps and models that actually answer questions. 
-Python, PostGIS, Google Earth Engine, QGIS ; if it has a coordinate system, I've probably poked at it.
+Python, PostGIS, Google Earth Engine, QGIS ; if it has a coordinate system, I have probably poked at it.
 * 🌍  I'm based in Nairobi, Kenya
 
 <p align="left">
