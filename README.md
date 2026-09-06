@@ -44,10 +44,6 @@ Currently Interested In
 * Building end-to-end geospatial applications — from analysis to a usable web interface
 * Growing my software engineering skills toward fullstack development
 
-Let's Connect
--------------
-
-* Medium: [@andyaketch](https://medium.com/@andyaketch)
 
 ### Sometimes I also write:
 
