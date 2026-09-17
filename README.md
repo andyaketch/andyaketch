@@ -1,5 +1,5 @@
 
-</p>Hey, I'm Andy Aketch 👋🌍
+</p>Hey, I'm Andy Aketch 👋🌍<p>
 =========================
 
 GIS & Remote Sensing Analyst | Learning to become a Fullstack Developer
