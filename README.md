@@ -60,5 +60,3 @@ Let's Connect
 </a>
 </p>
 
-<img src="https://andyaketch.goatcounter.com/count"
-        async src=" width="1" height="1" alt="" />
