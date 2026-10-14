@@ -60,5 +60,5 @@ Let's Connect
 </a>
 </p>
 
-<script data-goatcounter="https://andyaketch.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+<img src="https://andyaketch.goatcounter.com/count"
+        async src=" width="1" height="1" alt="" />
