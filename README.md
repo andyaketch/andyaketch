@@ -59,3 +59,6 @@ Let's Connect
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
 </a>
 </p>
+
+<script data-goatcounter="https://andyaketch.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
