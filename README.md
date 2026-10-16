@@ -1,13 +1,16 @@
-
 Hey, I'm Andy Aketch 👋🌍
 =========================
 
 GIS & Remote Sensing Analyst | Learning to become a Fullstack Developer
 -------------------------------------------------------------------------
 
-I turn satellite imagery and messy spatial data into maps and models that actually answer questions. Lately that means pairing classic geospatial workflows with machine learning — classification models (like Random Forest and SVM) to label land cover and features, regression models to learn patterns and predict change over time. I also enjoy applying these same techniques beyond earth observation, wherever there's messy data and a question worth answering.
+<p align="center">
+  <img src="assets/orbit.svg" alt="Animated satellite ground track passing over Nairobi" width="100%" />
+</p>
 
-Python, PostGIS, Google Earth Engine, QGIS — if it has a coordinate system, I have probably poked at it. I'm also picking up software engineering fundamentals to grow into a fullstack developer, so I can build the tools that put these models in front of people, not just the notebooks that produce them.
+I turn satellite imagery and messy spatial data into maps and models that actually answer questions. Lately that means pairing classic geospatial workflows with machine learning: classification models (like Random Forest and SVM) to label land cover and features, regression models to learn patterns and predict change over time. I also enjoy applying these same techniques beyond earth observation, wherever there's messy data and a question worth answering.
+
+Python, PostGIS, Google Earth Engine, QGIS. If it has a coordinate system, I have probably poked at it. I'm also picking up software engineering fundamentals to grow into a fullstack developer, so I can build the tools that put these models in front of people, not just the notebooks that produce them.
 
 🌍 Based in Nairobi, Kenya
 
@@ -18,7 +21,7 @@ Tech Stack
 Python · PostGIS · Google Earth Engine · QGIS
 
 **Machine Learning**
-Classification (Random Forest, SVM) · Regression · Pattern learning — applied to satellite/spatial data and beyond
+Classification (Random Forest, SVM) · Regression · Pattern learning, applied to satellite/spatial data and beyond
 
 <p align="left">
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="36" height="36" /></a>
@@ -31,10 +34,11 @@ HTML5 · Git · VS Code
 PostgreSQL · MySQL
 
 **Languages**
-Python · SQL · HTML/CSS
+Python · JavaScript · SQL · HTML/CSS
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
@@ -45,8 +49,8 @@ Python · SQL · HTML/CSS
 Currently Interested In
 -----------------------
 
-* Applying machine learning (classification & regression, including Random Forest and SVM) to remote sensing and Earth observation — and to other domains where spatial or tabular data holds patterns worth uncovering
-* Building end-to-end geospatial applications — from analysis to a usable web interface
+* Applying machine learning (classification & regression, including Random Forest and SVM) to remote sensing and Earth observation, and to other domains where spatial or tabular data holds patterns worth uncovering
+* Building end-to-end geospatial applications, from analysis to a usable web interface
 * Growing my software engineering skills toward fullstack development
 
 Let's Connect
@@ -59,4 +63,3 @@ Let's Connect
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
 </a>
 </p>
-
