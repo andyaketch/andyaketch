@@ -5,7 +5,9 @@ GIS & Remote Sensing Analyst | Learning to become a Fullstack Developer
 -------------------------------------------------------------------------
 
 <p align="center">
-  <img src="assets/orbit.svg" alt="Animated satellite ground track passing over Nairobi" width="100%" />
+  <a href="https://github.com/andyaketch">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=50&lines=Turning+satellite+pixels+into+answers+%F0%9F%9B%B0%EF%B8%8F;Random+Forest+%C2%B7+SVM+%C2%B7+Regression;Python+%C2%B7+PostGIS+%C2%B7+Earth+Engine+%C2%B7+QGIS;Learning+to+build+fullstack+GIS+apps" alt="Typing animation: Turning satellite pixels into answers; Random Forest, SVM, Regression; Python, PostGIS, Earth Engine, QGIS; Learning to build fullstack GIS apps" />
+  </a>
 </p>
 
 I turn satellite imagery and messy spatial data into maps and models that actually answer questions. Lately that means pairing classic geospatial workflows with machine learning: classification models (like Random Forest and SVM) to label land cover and features, regression models to learn patterns and predict change over time. I also enjoy applying these same techniques beyond earth observation, wherever there's messy data and a question worth answering.
